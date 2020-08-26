@@ -7,6 +7,6 @@
 # | Disclaimer: Editing author will not make you the real coder
 
 import spammer_class
-spammer = spammer_class.Spammer()
+spammer = spammer_class.spammer()
 spammer.author = "P4kL0nc4t"
 spammer.main()
